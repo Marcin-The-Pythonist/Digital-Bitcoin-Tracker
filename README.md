@@ -1,2 +1,2 @@
-# Digital-Bitcoin-Tracker-
+# Digital-Bitcoin-Tracker
 Raspberry Pico used for tracking the price of Bitcoin.
